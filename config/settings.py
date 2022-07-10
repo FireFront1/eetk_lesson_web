@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Schedule',
     'rangefilter',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
